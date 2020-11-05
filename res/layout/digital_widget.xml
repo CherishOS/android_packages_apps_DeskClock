@@ -49,7 +49,6 @@
             android:ellipsize="none"
             android:includeFontPadding="false"
             android:singleLine="true"
-            android:textAllCaps="true"
             android:textColor="@color/white" />
 
         <ImageView
