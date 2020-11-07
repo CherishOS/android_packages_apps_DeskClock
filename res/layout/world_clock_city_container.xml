@@ -36,7 +36,8 @@
         android:ellipsize="end"
         android:maxLines="2"
         android:scrollHorizontally="true"
-        android:textAppearance="@style/SecondaryLabelTextAppearance"/>
+        android:textAppearance="@style/SecondaryLabelTextAppearance"
+        android:fontFamily="sans-serif" />
 
 </LinearLayout>
 

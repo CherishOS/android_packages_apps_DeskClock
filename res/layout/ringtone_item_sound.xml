@@ -55,7 +55,8 @@
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:importantForAccessibility="no"
-                    android:scaleType="center" />
+                    android:scaleType="center"
+                    android:tint="?attr/colorControlNormal" />
 
                 <TextView
                     android:id="@+id/ringtone_name"

@@ -26,6 +26,7 @@
         <item name="android:timePickerStyle" tools:targetApi="21">@style/Widget.TimePicker</item>
         <item name="android:windowBackground">@color/default_background</item>
         <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textAppearanceButton">@style/TextAppearance.Widget.Button</item>
 
         <!-- Attributes from androidx.appcompat.appcompat -->
         <item name="colorAccent">@color/accent_color</item>

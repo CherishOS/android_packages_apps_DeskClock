@@ -24,6 +24,7 @@
     <TextView
         android:id="@+id/date"
         style="@style/body"
+        android:textSize="16sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAllCaps="true" />
@@ -31,6 +32,7 @@
     <TextView
         android:id="@+id/nextAlarmIcon"
         style="@style/body"
+        android:textSize="16sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -44,8 +46,8 @@
     <TextView
         android:id="@+id/nextAlarm"
         style="@style/body"
+        android:textSize="16sp"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAllCaps="true" />
+        android:layout_height="wrap_content" />
 
 </LinearLayout>

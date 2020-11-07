@@ -33,10 +33,10 @@
         android:layout_height="wrap_content"
         android:ellipsize="none"
         android:fontFamily="sans-serif"
-        android:fontFeatureSettings="tnum"
+        android:fontFeatureSettings="tnum, cv03, cv04"
         android:includeFontPadding="false"
         android:singleLine="true"
-        android:textColor="?android:attr/textColorPrimary"
+        android:textColor="@color/accent_color"
         android:textSize="@dimen/timer_setup_digit_font_size"
         tools:targetApi="21" />
 

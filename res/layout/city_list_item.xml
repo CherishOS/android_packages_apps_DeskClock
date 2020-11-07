@@ -44,11 +44,13 @@
         android:paddingEnd="10dip"
         android:ellipsize="end"
         android:singleLine="true"
-        android:textAppearance="@style/PrimaryLabelTextAppearance" />
+        android:textAppearance="@style/PrimaryLabelTextAppearance"
+        android:fontFamily="sans-serif" />
     <TextView
         android:id="@+id/city_time"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dip"
-        android:textAppearance="@style/SecondaryLabelTextAppearance" />
+        android:textAppearance="@style/SecondaryLabelTextAppearance"
+        android:fontFamily="sans-serif" />
 </LinearLayout>
