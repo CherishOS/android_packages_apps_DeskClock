@@ -38,6 +38,6 @@
     <!-- shadowColor for widget text -->
     <color name="widget_shadow_color">#000000</color>
 
-    <color name="accent_color">#FEF177</color>
+    <color name="accent_color">@*android:color/accent_device_default_dark</color>
     <color name="secondary_color">#212121</color>
 </resources>
